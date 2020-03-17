@@ -1,0 +1,65 @@
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :42 - What is class? 
+2020-03-17 09:16:11 INFO  bridgepattern.QuestionFormat :11 - %n---------------------------------------------------------------------------------
+2020-03-17 09:16:11 DEBUG bridgepattern.QuestionManager :27 - Question Paper: Java Programming Language
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - What is class? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - What is interface? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - What is abstraction? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - How multiple polymorphism is achieved in java? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - How many types of exception  handling are there in java? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - Define the keyword final for  variable, method, and class in java? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - What is abstract class? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - What is multi-threading? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - What is inheritance? 
+2020-03-17 09:16:11 DEBUG bridgepattern.JavaQuestions :46 - How many types of inheritance are there in java?
+2020-03-17 09:16:11 INFO  bridgepattern.QuestionFormat :13 - %n---------------------------------------------------------------------------------
+2020-03-17 09:16:11 INFO  bridgepattern.QuestionFormat :14 - *******Bridge Pattern*******
+2020-03-17 09:16:22 INFO  pattern.FacadePattern :10 - ------------------------------------------------------------------
+2020-03-17 09:16:22 INFO  pattern.FacadePattern :11 - *******************Facade Pattern****************
+2020-03-17 09:16:22 INFO  pattern.FacadePattern :12 - Phones Available Are:
+2020-03-17 09:16:22 INFO  pattern.FacadePattern :13 - 1. IPHONE.
+2020-03-17 09:16:22 INFO  pattern.FacadePattern :14 - 2. OOPO
+2020-03-17 09:16:22 INFO  pattern.FacadePattern :15 - 3. REALME.
+2020-03-17 09:16:22 INFO  pattern.FacadePattern :16 - Enter your choice: 
+2020-03-17 09:16:28 INFO  pattern.Iphone :7 -  Samsung galaxy tab 3 
+2020-03-17 09:16:28 INFO  pattern.Iphone :10 -  Rs 45000.00 
+2020-03-17 09:16:28 INFO  pattern.FacadePattern :31 - --------------------------------------------------------
+2020-03-17 09:16:45 INFO  pattern.CostTest :19 - -------------------------------------------------------------------
+2020-03-17 09:16:45 INFO  pattern.CostTest :20 - *****************Factory Pattern*********************
+2020-03-17 09:16:45 INFO  pattern.CostTest :21 - -------------------------------------------------------------------
+2020-03-17 09:16:45 INFO  pattern.CostTest :23 - House construction with Standard material is calculated
+2020-03-17 09:16:45 DEBUG pattern.CostTest :24 - 240000.0
+2020-03-17 09:16:45 WARN  pattern.CostTest :25 - No warnings in calculating the standard matrial house construction cost
+2020-03-17 09:16:45 ERROR pattern.CostTest :26 - No errors in calculating the standard matrial house construction cost
+2020-03-17 09:16:45 INFO  pattern.CostTest :29 - House construction with Above Standard material is calculated
+2020-03-17 09:16:45 DEBUG pattern.CostTest :30 - 600000.0
+2020-03-17 09:16:45 WARN  pattern.CostTest :31 - No warnings in calculating the Above standard matrial house construction cost
+2020-03-17 09:16:45 ERROR pattern.CostTest :32 - No errors in calculating the Above standard matrial house construction cost
+2020-03-17 09:16:45 INFO  pattern.CostTest :34 - House construction with Highstandard material is calculated
+2020-03-17 09:16:45 DEBUG pattern.CostTest :35 - 540000.0
+2020-03-17 09:16:45 WARN  pattern.CostTest :36 - No warnings in calculating the Highstandard matrial house construction cost
+2020-03-17 09:16:45 ERROR pattern.CostTest :37 - No errors in calculating Highstandard matrial house construction cost
+2020-03-17 09:16:45 INFO  pattern.CostTest :40 - House construction with Highstandard Fullautomatic material is calculated
+2020-03-17 09:16:45 DEBUG pattern.CostTest :41 - 2500000.0
+2020-03-17 09:16:45 WARN  pattern.CostTest :42 - No warnings in calculating the Highstandard Fullautomatic matrial house construction cost
+2020-03-17 09:16:45 ERROR pattern.CostTest :43 - No errors in calculating Highstandard Fullautomatic matrial house construction cost
+2020-03-17 09:16:45 INFO  pattern.CostTest :45 - -------------------------------------------------------------------
+2020-03-17 09:16:45 INFO  pattern.CostTest :46 - -------------------------------------------------------------------
+2020-03-17 09:16:53 INFO  pattern.IteratorPattern :12 - ------------------------------------------------------------------
+2020-03-17 09:16:53 INFO  pattern.IteratorPattern :13 - *******************Iterator Pattern****************
+2020-03-17 09:16:53 DEBUG pattern.IteratorPattern :16 - Name : Harshitha Uriti, Adithya Marredy, Maduri Dasari, Vasantha Sravani
+2020-03-17 09:16:53 INFO  pattern.IteratorPattern :17 - ------------------------------------------------------------------
+2020-03-17 09:16:57 INFO  pattern.ProxyPatternClient :10 - ------------------------------------------------------------------------
+2020-03-17 09:16:57 INFO  pattern.ProxyPatternClient :11 -  **************************Proxy Pattern***********************
+2020-03-17 09:16:57 INFO  pattern.RealInternetAccess :12 - Internet Access granted for employee: Uriti Harshitha
+2020-03-17 09:16:57 INFO  pattern.RealInternetAccess :13 - ------------------------------------------------------------------------
+2020-03-17 09:16:57 INFO  pattern.RealInternetAccess :14 - 
+2020-03-17 09:17:01 INFO  pattern.ProxyPatternClient :14 - -----------------------------------------------------------
+2020-03-17 09:17:01 INFO  pattern.ProxyPatternClient :15 - ********************Strategy Pattern********************
+2020-03-17 09:17:01 INFO  pattern.ProxyPatternClient :16 - Enter the first value: 
+2020-03-17 09:17:06 DEBUG pattern.ProxyPatternClient :18 - The First Number is: 25.0
+2020-03-17 09:17:06 INFO  pattern.ProxyPatternClient :19 - Enter the second value: 
+2020-03-17 09:17:08 DEBUG pattern.ProxyPatternClient :21 - The First Number is: 25.0
+2020-03-17 09:17:08 DEBUG pattern.ProxyPatternClient :23 - Addition = 60.0
+2020-03-17 09:17:08 DEBUG pattern.ProxyPatternClient :25 - Subtraction = -10.0
+2020-03-17 09:17:08 INFO  pattern.ProxyPatternClient :26 - ----------------------------------------------------------
+2020-03-17 09:17:08 INFO  pattern.ProxyPatternClient :27 - 
